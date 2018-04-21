@@ -9,6 +9,7 @@
     - What you do
     - How you do it
     - When you do it
+
 Example of constrains:
 - If a project must occur on a specific date
 - If a project doesn't have unlimited budget
@@ -20,7 +21,7 @@ Example of constrains:
 - Lead the team to success
 - Needs to know: Risk management & Realistic schedule
 
-## <PMBOK> book: 
+## PMBOK book: 
 - The guide to the project management: base of knowledge
 - Standaraized knwoledge areas and process
 
