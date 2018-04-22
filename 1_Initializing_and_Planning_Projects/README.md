@@ -24,7 +24,7 @@ Example of constrains:
 ## Type of team orgnization
 - Fuunctinal Orgnization (职能组织)
 
-<img src="./images/Screen Shot 2018-04-21 at 6.15.07 PM">
+<img src="images/Screen Shot 2018-04-21 at 6.15.07 PM">
 
 In a Functional Organization, there is __little to no project management__. You might not be involved as a project manager. Sometimes there can be some project coordination involved. And that coordination takes place between the functional departments. Now by functional, I mean groups such as marketing, operations, finance, information technology. Each manager of each group oversees their part of the project. Employees working on the project may or may not know there's a project. They just might recognize that their manager has asked them to do something different than usual. There's probably limited conversation between team members, because they do not know they are a team. And there are probably no project team meetings. 
 
