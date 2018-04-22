@@ -24,7 +24,10 @@ Example of constrains:
 ## Type of team orgnization
 - Fuunctinal Orgnization (职能组织)
 
-In a Functional Organization, there is little to no project management. You might not be involved as a project manager. Sometimes there can be some project coordination involved. And that coordination takes place between the functional departments. Now by functional, I mean groups such as marketing, operations, finance, information technology. Each manager of each group oversees their part of the project. Employees working on the project may or may not know there's a project. They just might recognize that their manager has asked them to do something different than usual. There's probably limited conversation between team members, because they do not know they are a team. And there are probably no project team meetings. 
+In a Functional Organization, there is __little to no project management__. You might not be involved as a project manager. Sometimes there can be some project coordination involved. And that coordination takes place between the functional departments. Now by functional, I mean groups such as marketing, operations, finance, information technology. Each manager of each group oversees their part of the project. Employees working on the project may or may not know there's a project. They just might recognize that their manager has asked them to do something different than usual. There's probably limited conversation between team members, because they do not know they are a team. And there are probably no project team meetings. 
+
+在功能性组织中，几乎没有项目管理。您可能不会参与项目经理。有时可能会涉及一些项目协调。而且这种协调发生在职能部门之间。现在功能，我指的是营销，运营，金融，信息技术等团体。每个小组的每位经理都监督他们的项目。在项目上工作的员工可能会或可能不知道有一个项目。他们可能只会认识到他们的经理已经要求他们做一些与往常不同的事情。团队成员之间的谈话可能有限，因为他们不知道他们是一个团队。而且可能没有项目小组会议。
+
 - Matrix Orgnization 
 
 Now we're going to look at three types of matrix organizations, weak, balanced, and strong. The designation of weak, balanced, or strong has to do with who has more power or control over the project, the functional manager or the project manager. And remember that functional manager is someone who has a responsibility over a specific area and doesn't typically run projects. 
