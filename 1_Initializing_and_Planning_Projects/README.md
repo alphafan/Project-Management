@@ -23,8 +23,10 @@ Example of constrains:
 
 ## Type of team orgnization
 - Fuunctinal Orgnization (职能组织)
+
 In a Functional Organization, there is little to no project management. You might not be involved as a project manager. Sometimes there can be some project coordination involved. And that coordination takes place between the functional departments. Now by functional, I mean groups such as marketing, operations, finance, information technology. Each manager of each group oversees their part of the project. Employees working on the project may or may not know there's a project. They just might recognize that their manager has asked them to do something different than usual. There's probably limited conversation between team members, because they do not know they are a team. And there are probably no project team meetings. 
 - Matrix Orgnization 
+
 Now we're going to look at three types of matrix organizations, weak, balanced, and strong. The designation of weak, balanced, or strong has to do with who has more power or control over the project, the functional manager or the project manager. And remember that functional manager is someone who has a responsibility over a specific area and doesn't typically run projects. 
 - In a weak matrix, the functional manager is in charge and he or she will probably have the assistance of a coordinator. The project coordinator will help maintain the schedule and the status and assist the functional manager, but the coordinator, not gonna have any decision making responsibility. 
 - Within the balanced matrix, there's a recognition that having a project manager assigned will help to ensure success. And that project manager has some decision making responsibilities, but so does the functional manager. The project manager manages the team to stay within scope and schedule and budget. And the functional manager will make decisions as to who does the work and how that work is to be accomplished. 
