@@ -5,10 +5,10 @@
 - Create a specific product and service
 
 ## Constraints of a project
-- A place which may place imitations on 
-    - What you do
-    - How you do it
-    - When you do it
+A place which may place imitations on 
+- What you do
+- How you do it
+- When you do it
 
 Example of constrains:
 - If a project must occur on a specific date
